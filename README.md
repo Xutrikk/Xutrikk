@@ -42,7 +42,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; 
 <img src="https://img.icons8.com/color/512/c-sharp-logo.png"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://img.icons8.com/color/512/c-programming.png"  title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/1088/1088504.png" title="ASM" alt="ASM" width="40" height="40"/>&nbsp;
 </div>
